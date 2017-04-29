@@ -28,7 +28,7 @@
 			</nav>	
 			<main id="hero">
 				<div id="center">
-					For booking and business inquiries please contact Dan Rudd: <a href="mailto:danielrudd13@gmail.com">danielrudd13@gmail.com</a>
+					
 					<br><br>
 					Website concerns or questions please contact Sten Anderson: <a href="mailto:anderson2.sten@gmail.com">anderson2.sten@gmail.com</a>
 				<div>
@@ -36,7 +36,7 @@
 			<footer>
 				<br>
 				<!--main contact email address-->			
-				<a href="mailto:danielrudd13@gmail.com">danielrudd13@gmail.com</a> <br><br>		
+					
 			</footer>
 		</div><!--closes the wrapper-->
 	</body>
