@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>KINGS | History</title>
+		<link rel="stylesheet" href="Kings.css">
+		<link rel="icon" href="" type="image/x-icon">
+		<!-- important words on this page and a short description to aid in accessibility-->
+		<meta name="keywords" content="KINGS, band, post hardcore, music, pop rock, rock">
+		<meta name="description" content="KINGS are a band based currently out of LA making rock, poprock, and post hardcore music">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		<!--[if lt IE 9]>
+   		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>   
+		<![endif]-->
+	</head>
+	<body>
+		<div id="wrapper"><!--opens the wrapper-->
+			<header>
+				<h1><a href="index.html" target="_self">KINGS</a></h1>
+			</header>
+			<nav>
+					<!-- links to important sub pages-->
+					<a href="index.html" target="_self">Home</a>
+					<a href="history.html" target="_self">History</a>
+					<a href="music.html" target="_self">Music</a>
+					<a href="events.html" target="_self">Events</a>
+					<a href="contact.html" target"_self">Contact us</a>		
+				
+			</nav>	
+			<main id="hero">
+			<div>
+					<img src="images/DanBen.jpg" width="50%" alt="Picture of Dan and ben in the recording studio overlooking Minneapolis">
+				
+							The inception of the idea for Kings formed from an act of desperation. At the time the cause for change was change itself. After 3 years of touring and one of creative difference Dan left his band at the time, This Is Breathing. Uncertain of what he wished to pursue next Dan enrolled in for fall classes at a local community college. Placement test and classes selected, Dan realized that completing his higher education was not where his passion lied. He still had a longing to learn and educate himself, but through life experience. Two weeks later Dan moved to Los Angeles. He spent the next year cycling through day jobs and rediscovering his interest in acting; something he had done since he was little. At the beginning of his second year in Los Angeles Dan discovered that he had fallen into too much of a routine. He was stuck in two part time jobs and constant rejection from casting directors. It was then he realized he had not touched an instrument in in 3 months and had not written a song in longer. This was when the first Kings song was written. For the next 4 months Dan spent his time writing songs. After cataloging over 20 songs and ideas, Dan approached friend of his who was a producer; just recently moved to LA. Together the two of them began to bring to life the Kings Self-Titled EP. During the process of recording Dan began to reach out to friends who he used to play with to join the band. Ben Illies was at the top of that list in his head. Ben&#39s bands had played along side Dan&#39s throughout high school and had been a previous LA resident before him. They also drew from many of the same artist for inspiration. With Ben still frequenting LA for odd jobs inside the industry Dan contacted him and asked to meet. It was here that Dan showed Ben everything he had worked on. With great enthusiasm Ben was on board. For the following months Ben and Dan worked together to write and finish the EP. 
+				
+			</div>		
+			</main>
+			<footer>
+				<br>
+				<!--main contact email address-->			
+				<a href="mailto:danielrudd13@gmail.com">danielrudd13@gmail.com</a> <br><br>		
+			</footer>
+		</div><!--closes the wrapper-->
+	</body>
+</html>
